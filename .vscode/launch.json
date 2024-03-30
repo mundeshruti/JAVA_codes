@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Swaptwonumber",
+            "request": "launch",
+            "mainClass": "Numbers.Swaptwonumber",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacciseries",
+            "request": "launch",
+            "mainClass": "Numbers.Fibonacciseries",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Numbers.Factorial",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Primenumber",
+            "request": "launch",
+            "mainClass": "Numbers.Primenumber",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {}
+    ]
+}
