@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leapyearcheck",
+            "request": "launch",
+            "mainClass": "Numbers.Leapyearcheck",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
             "name": "ParidromeNumber",
             "request": "launch",
             "mainClass": "Numbers.ParidromeNumber",
