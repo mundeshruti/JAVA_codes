@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "String.RemoveDuplicate",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "SwapString",
+            "request": "launch",
+            "mainClass": "String.SwapString",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Vowelcheck",
+            "request": "launch",
+            "mainClass": "String.Vowelcheck",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "ReverseSentence",
+            "request": "launch",
+            "mainClass": "String.ReverseSentence",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "PalidromeString",
+            "request": "launch",
+            "mainClass": "String.PalidromeString",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "String.ReverseString",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
             "name": "Leapyearcheck",
             "request": "launch",
             "mainClass": "Numbers.Leapyearcheck",
