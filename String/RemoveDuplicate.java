@@ -1,5 +1,5 @@
 package String;
-
+// remove space
 import java.util.Scanner;
 
 public class RemoveDuplicate {
