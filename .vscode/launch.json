@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeduplicate",
+            "request": "launch",
+            "mainClass": "Array.removeduplicate",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Midarray",
+            "request": "launch",
+            "mainClass": "Array.Midarray",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "oddelements",
+            "request": "launch",
+            "mainClass": "Array.oddelements",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Evenarr",
+            "request": "launch",
+            "mainClass": "Array.Evenarr",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "minarray",
+            "request": "launch",
+            "mainClass": "Array.minarray",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "maxarray",
+            "request": "launch",
+            "mainClass": "Array.maxarray",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Sumarray",
+            "request": "launch",
+            "mainClass": "Array.Sumarray",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
+            "name": "Sortarray",
+            "request": "launch",
+            "mainClass": "Array.Sortarray",
+            "projectName": "JAVA_codes_d551e165"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicate",
             "request": "launch",
             "mainClass": "String.RemoveDuplicate",

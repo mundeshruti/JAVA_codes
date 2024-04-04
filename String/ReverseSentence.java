@@ -8,13 +8,13 @@ public class ReverseSentence {
         System.out.println("Enter a sentence:");
         String s = sc.nextLine();
         // String s = "My Name is shrutika";
-        String r = " ";
-        String[] rev = s.split(" ");
+        String[] r = s.split(" ");
+        String rev = "";
 
-        for (int i = 0; i < s.length(); i++) {
-            r = rev[i] + r;
+        for (int i = r.length - 1; i >= 0; i--) {
+            rev += r[i] + " ";
         }
 
-        System.out.println("Reversed sentence: " + r);
+        System.out.println("Reversed sentence: " + rev);
     }
 }

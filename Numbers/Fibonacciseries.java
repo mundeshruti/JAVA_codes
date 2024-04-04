@@ -8,10 +8,12 @@ public class Fibonacciseries {
         System.out.println("enter a number:");
         int n = s.nextInt();
         System.out.println("fibonacci series : ");
+        int sum = 0;
         for (int i = 1; i <= n; i++) { // n= number of elements in the fibonacci series to be printed
-
+            sum = fib(i) + sum;
             System.out.println(fib(i));
         }
+        System.out.println("fib. series  sum:" + sum);
     }
 
     public static int fib(int n) {
@@ -22,6 +24,5 @@ public class Fibonacciseries {
         } else {
             return fib(n - 1) + fib(n - 2);
         }
-
     }
 }
