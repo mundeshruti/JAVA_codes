@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOPs.Abstract_Class.Test",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "OOPs.Interface.Circle",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Test",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOPs.Overload.Override.Test",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Operation",
+            "request": "launch",
+            "mainClass": "OOPs.Overload.Operation",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Operation",
+            "request": "launch",
+            "mainClass": "OOPs.Encapsulation.overloading.Operation",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "OOPs.Encapsulation.Student",
+            "projectName": "JAVA_codes_1df302b3"
+        },
+        {
+            "type": "java",
             "name": "removeduplicate",
             "request": "launch",
             "mainClass": "Array.removeduplicate",
