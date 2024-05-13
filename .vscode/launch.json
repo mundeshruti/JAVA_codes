@@ -2,6 +2,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Diamond_Pyramid",
+            "request": "launch",
+            "mainClass": "Pattern.Diamond_Pyramid",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Diamond_Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Diamond_Triangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid_Downword",
+            "request": "launch",
+            "mainClass": "Pattern.Pyramid_Downword",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pattern.Pyramid",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_Downword",
+            "request": "launch",
+            "mainClass": "Pattern.Triangle_Downword",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Right_Downword_Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Right_Downword_Triangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Triangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Right_Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Right_Triangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Left_downword_Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Left_downword_Triangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern",
+            "request": "launch",
+            "mainClass": "Pattern.Star_Pattern",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "RreverseTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.RreverseTriangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "TriangleStar",
+            "request": "launch",
+            "mainClass": "Pattern.TriangleStar",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "DownLeftTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.DownLeftTriangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "LeftTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.LeftTriangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "DownRightTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.DownRightTriangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.RightTriangle",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
+            "name": "Plan",
+            "request": "launch",
+            "mainClass": "Pattern.Plan",
+            "projectName": "JAVA_codes-1_6d3d2797"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "OOPs.Abstract_Class.Test",
