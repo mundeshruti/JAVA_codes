@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestRunnable",
+            "request": "launch",
+            "mainClass": "Java_concept_Ex.MultiThreading.TestRunnable",
+            "projectName": "JAVA_codes-1_c85f21c9"
+        },
+        {
+            "type": "java",
+            "name": "TestThread",
+            "request": "launch",
+            "mainClass": "Java_concept_Ex.MultiThreading.TestThread",
+            "projectName": "JAVA_codes-1_c85f21c9"
+        },
+        {
+            "type": "java",
             "name": "Diamond_Pyramid",
             "request": "launch",
             "mainClass": "Pattern.Diamond_Pyramid",
