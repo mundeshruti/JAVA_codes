@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Empty_Triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Empty_Triangle",
+            "projectName": "JAVA_codes-2_6d3d2798"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_diamond_pattern",
+            "request": "launch",
+            "mainClass": "Pattern.Reverse_diamond_pattern",
+            "projectName": "JAVA_codes-2_6d3d2798"
+        },
+        {
+            "type": "java",
             "name": "TestRunnable",
             "request": "launch",
             "mainClass": "Java_concept_Ex.MultiThreading.TestRunnable",
