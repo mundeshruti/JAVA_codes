@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse_empty_triangle",
+            "request": "launch",
+            "mainClass": "Pattern.Reverse_empty_triangle",
+            "projectName": "JAVA_codes-2_6d3d2798"
+        },
+        {
+            "type": "java",
             "name": "Empty_Triangle",
             "request": "launch",
             "mainClass": "Pattern.Empty_Triangle",
